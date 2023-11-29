@@ -26,7 +26,9 @@
 
 The following tools were used in this project:
 
-- [REACT-NATIVE](https://developer.mozilla.org/pt-BR/docs/Web/Reactnative) 
+- react-native-navigation
+- react-native-screens
+- react-native-safe-area-context
 
 ## :white_check_mark: Requirements ##
 
