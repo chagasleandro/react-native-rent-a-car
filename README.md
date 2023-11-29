@@ -22,9 +22,6 @@
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
 
-
-![AppRedDragon](/app-clima.png)
-
 ## :rocket: Technologies ##
 
 The following tools were used in this project:
